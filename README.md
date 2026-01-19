@@ -1,4 +1,4 @@
-# A-Power-BI-Dashboard-For-Weather-Report-And-Forecasting-Analysis-with-Python
+# A Power BI Dashboard For Weather Report And Forecast Analysis Using Python
 This is an end-to-end Weather Analytics Dashboard using Power BI, designed to transform raw weather data into clear, decision-ready insights.
 The workflow started with data cleaning and preprocessing in Python (Pandas, NumPy) to ensure data quality and consistency. The prepared dataset was then modelled in Power BI, where I created custom DAX measures to drive accurate calculations and meaningful analysis.
 
